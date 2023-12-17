@@ -15,14 +15,28 @@
     "@react-three/drei": "^9.43.3",
     "@react-three/fiber": "^8.9.1",
     "@tabler/icons": "^1.115.0",
+    "gh-pages": "^6.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.146.0"
+    "three": "^0.146.0",
+    "yarn": "^1.22.21"
   },
   "devDependencies": {
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "^2.2.0",
     "vite": "^3.2.3"
-  }
+  },
+  "description": "Starting pack containing : - Three.js - React Three Fiber (r3f) - Drei - Mantine UI - 3D Model with ready animations and shape keys",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanthasuwamy-Kumaran/ThreeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanthasuwamy-Kumaran/ThreeJS/issues"
+  },
+  "homepage": "https://github.com/Kanthasuwamy-Kumaran/ThreeJS#readme"
 }
